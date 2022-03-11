@@ -1,0 +1,12 @@
+.bg-blue {
+  background-color: rgb(93, 204, 255);
+}
+
+table {
+  text-align: center;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
